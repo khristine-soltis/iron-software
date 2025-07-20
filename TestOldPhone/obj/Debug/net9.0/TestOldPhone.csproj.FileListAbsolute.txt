@@ -1,0 +1,15 @@
+/Users/khristinesoltis/iron-software/TestOldPhone/bin/Debug/net9.0/TestOldPhone
+/Users/khristinesoltis/iron-software/TestOldPhone/bin/Debug/net9.0/TestOldPhone.deps.json
+/Users/khristinesoltis/iron-software/TestOldPhone/bin/Debug/net9.0/TestOldPhone.runtimeconfig.json
+/Users/khristinesoltis/iron-software/TestOldPhone/bin/Debug/net9.0/TestOldPhone.dll
+/Users/khristinesoltis/iron-software/TestOldPhone/bin/Debug/net9.0/TestOldPhone.pdb
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.AssemblyInfoInputs.cache
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.AssemblyInfo.cs
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.csproj.CoreCompileInputs.cache
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.sourcelink.json
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.dll
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/refint/TestOldPhone.dll
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.pdb
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/TestOldPhone.genruntimeconfig.cache
+/Users/khristinesoltis/iron-software/TestOldPhone/obj/Debug/net9.0/ref/TestOldPhone.dll
