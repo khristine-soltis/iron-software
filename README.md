@@ -9,7 +9,7 @@ This is a simple console application called OldPhoneKeypad. It takes keypad inpu
 Description
 
 The program accepts the following inputs:
-Numbers from 1 to 9
+Numbers from 2 to 9
 '#' to mark the end of the input
 '*' to act as a backspace (removes the last letter)
 ' ' to pause in between characters
